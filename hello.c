@@ -1,5 +1,4 @@
 /*
- * Nikolay Nikolov
  * ECE 373
  *
  * BASED ON THE WORK OF PJ WASKIEWICZ
